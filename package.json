@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1",
+    "chai-bn": "^0.2.1",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^8.4.0",
+    "solc": "^0.8.4",
+    "web3": "^1.3.6"
+  },
+  "name": "sharedwallet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.1.0",
+    "@openzeppelin/test-helpers": "^0.5.11"
+  }
+}
