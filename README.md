@@ -1,5 +1,12 @@
-Smart Contract Design Goals
+Family Wallet
 ----------------
+FamilyWallet is a Ethereum smart contract.  
+Head of the family can allocate spending budgets to members.  
+Members can withdraw amount lower than allocated budget.  
+Their budget allocation reduces each time they withdraw.  
+Contract owner can allocate more funds to withdraw per family member.  
+
+
 
 Setup
 -----
